@@ -1,0 +1,36 @@
+#container {
+    background-color: orange;
+    height: 400px;
+    width: 100%;
+}
+#header {
+    background-color: lightskyblue;
+    height: 75px;
+    width: 100%;
+}
+#left {
+    background-color: lightgreen;
+    height: 250px;
+    width: 20%;
+    float: left;    
+}
+#right {
+    background-color: lightgreen;
+    height: 250px;
+    width: 20%;
+    float: left;
+}
+#content {
+    background-color: bisque;
+    height: 250px;
+    width: 60%;
+    float: left;
+}
+#clear {
+    clear: both;
+}
+#footer {
+    background-color: palevioletred;
+    height: 75px;
+    width: 100%;
+}
